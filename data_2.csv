@@ -1,0 +1,360 @@
+Estado​ >>   >> Estado,Puesto >> 2017​ >> Puesto,Nota >> 2017​ >> Nota,Cambio >> 2017​ >> Cambio  desde el año anterior
+ Singapur,1,89.7,0.3
+ Nueva Zelanda,2,83.9,0.2
+ Australia,3,82.4,0.2
+ Suiza,4,81.9,0.1
+ Irlanda,5,81.4,0.5
+ Taiwán,6,78.6,1.5
+ Reino Unido,7,78.4,0.9
+ Estonia,8,78.2,0.5
+ Canadá,9,77.9,0.3
+ Dinamarca,10,77.8,0.5
+ Islandia,11,77.4,0.3
+ Georgia,12,77.2,0.1
+ Mauricio,13,77.0,2.1
+Emiratos Árabes Unidos,14,76.9,0.7
+ Lituania,15,76.9,0.2
+ Países Bajos,16,76.8,0.2
+ Finlandia,17,76.1,0.4
+ Luxemburgo,18,76.0,0.2
+ Chile,19,75.2,1.6
+ Estados Unidos,20,74.8,1.8
+Suecia,21,74.7,0.2
+ Malasia,22,74.4,0.3
+ Japón,23,74.1,0.8
+ Corea del Sur,24,74.0,0.0
+ Austria,25,73.9,0.6
+ Israel,26,73.8,0.2
+ República Checa,27,73.8,1.0
+Noruega,28,73.4,0.0
+ Alemania,29,72.5,1.0
+ Letonia,30,72.3,0.4
+ Catar,31,72.0,0.3
+ Armenia,32,71.9,1.3
+ Chipre,33,71.4,1.3
+Kazajistán,34,71.1,1.5
+ Bulgaria,35,70.4,0.2
+ Malta,36,70.2,0.7
+ Bélgica,37,70.1,1.2
+ Azerbaiyán,38,70.1,0.8
+ España,39,69.9,3.0
+ Baréin,40,69.9,3.6
+ Polonia,41,69.7,0.6
+ Tailandia,42,69.7,0.3
+Rumania,43,69.5,0.2
+Uruguay,44,69.3,0.2
+ Jamaica,45,69.0,0.5
+ Macedonia del Norte,46,68.6,0.9
+ Ruanda,47,68.3,2.6
+ Eslovenia,48,68.3,0.5
+ Colombia,49,68.1,1.1
+Perú,50,67.7,0.2
+ Botsuana,51,67.6,2.0
+ Portugal,52,67.5,0.5
+ Santa Lucía,53,67.5,0.7
+ Serbia,54,67.2,1.2
+ Hungría,55,67.2,0.8
+ Indonesia,56,66.9,0.3
+ Brunéi,57,66.6,0.0
+ Kosovo,58,66.5,0.9
+ San Vicente y las Granadinas,59,66.3,0.5
+ Seychelles,60,66.3,2.0
+Eslovaquia,61,66.3,0.5
+Panamá,62,66.2,1.0
+ Arabia Saudita,63,66.0,3.6
+ Francia,64,65.7,0.3
+México,65,65.5,0.5
+Albania,66,65.2,1.7
+ Barbados,67,65.0,3.6
+ Italia,68,64.9,1.1
+ Jordania,69,64.6,1.4
+ Bahamas,70,64.4,0.1
+ Omán,71,64.6,1.0
+ Costa Rica,72,64.2,1.6
+ Filipinas,73,64.1,0.4
+ Kuwait,74,64.1,0.9
+ Guatemala,75,64.0,0.0
+ Turquía,76,64.0,0.4
+ Cabo Verde,77,63.8,0.2
+Kirguistán,78,63.7,0.8
+ Croacia,79,63.6,1.4
+Montenegro,80,63.4,1.9
+ Marruecos,81,63.3,0.0
+ Bosnia y Herzegovina,82,62.9,0.3
+ Namibia,83,62.6,1.7
+Paraguay,84,62.6,0.4
+ Moldavia,85,62.5,0.5
+ Mongolia,86,62.4,6.5
+ Fiyi,87,62.2,1.2
+ República Dominicana,88,62.1,1.2
+ Samoa,89,61.9,0.2
+ Vietnam,90,61.7,2.9
+ Costa de Marfil,91,61.7,2.0
+Rusia,92,61.5,0.5
+ Tanzania,93,61.3,0.4
+ El Salvador,94,61.0,0.6
+ Bielorrusia,95,61.0,0.7
+ Grecia,96,60.9,1.0
+ Vanuatu,97,60.5,0.2
+ Honduras,98,59.8,1.3
+ Sudáfrica,99,59.7,0.9
+ Benín,100,59.6,4.4
+ Ghana,101,59.2,0.2
+ Trinidad y Tobago,102,59.0,0.7
+ Papúa Nueva Guinea,103,58.9,0.5
+ Gambia,104,58.8,2.5
+ Nigeria,105,58.7,1.5
+ Uganda,106,58.6,0.9
+ China,107,58.4,1.1
+ Uzbekistán,108,58.3,1.1
+ Bután,109,58.3,3.8
+ Gabón,110,58.1,1.4
+ Senegal,111,58.0,0.0
+ Madagascar,112,57.7,2.8
+ Togo,113,57.5,3.4
+ Belice,114,57.5,0.1
+ Tonga,115,57.5,1.3
+ Guyana,116,57.4,1.2
+ Níger,117,57.3,2.6
+ Camboya,118,57.3,0.0
+ Túnez,119,56.6,0.8
+ Bangladés,120,56.5,0.1
+ India,121,56.5,0.0
+ Islas Salomón,122,56.5,3.6
+ Guinea,123,56.5,0.0
+ Burkina Faso,124,56.5,0.2
+ Nicaragua,125,56.3,0.9
+ Yibuti,126,56.2,3.3
+Ucrania,127,56.2,1.3
+ Mauritania,128,56.1,0.8
+ Santo Tomé y Príncipe,129,55.9,0.3
+ Egipto,130,55.7,1.7
+ Sri Lanka,131,55.7,1.7
+ Comoras,132,55.7,2.0
+ Malí,133,55.6,0.3
+ Tayikistán,134,55.2,3.0
+ Birmania,135,55.2,1.2
+ Maldivas,136,55.2,1.3
+ Suazilandia,137,55.1,0.2
+ Kenia,138,54.9,0.4
+ Guinea-Bisáu,139,54.9,1.6
+ Angola,140,54.2,2.0
+ Laos,141,53.9,1.6
+ Lesoto,142,53.5,1.0
+ Brasil,143,53.4,0.3
+ Camerún,144,53.4,0.2
+ Malaui,145,53.0,0.2
+ Afganistán,146,53.0,1.7
+ Dominica,147,53.0,7.8
+ Argentina,148,52.7,0.4
+ Ecuador,149,52.4,1.1
+ Sierra Leona,150,51.7,3.7
+ Etiopía,151,51.7,1.9
+ Pakistán,152,51.7,3.1
+ Mozambique,153,51.6,1.1
+ Líbano,154,51.4,0.3
+ Haití,155,50.8,1.5
+ República del Congo,156,50.7,8.9
+ Nepal,157,50.7,3.5
+ Chad,158,50.4,0.2
+ Zambia,159,50.4,3.1
+ Micronesia,160,50.4,1.6
+ Burundi,161,49.9,0.9
+ Argelia,162,49.7,2.8
+ Guinea Ecuatorial,163,49.2,0.9
+ Liberia,164,49.2,0.2
+ República Democrática del Congo,165,49.0,0.5
+ República Centroafricana,166,48.8,1.9
+ Turkmenistán,167,47.4,0.9
+ Irán,168,47.2,2.0
+ Surinam,169,46.4,3.1
+ Timor Oriental,170,44.7,1.2
+ Kiribati,171,44.4,0.8
+ Bolivia,172,42.7,0.1
+ Eritrea,173,42.3,3.8
+ Zimbabue,174,39.5,3.6
+ Sudán,175,39.1,5.9
+ Cuba,176,28.1,1.2
+Venezuela,177,24.7,0.5
+ Corea del Norte,178,5.2,1.0
+ Hong Kong,1,89.8,1.2
+ Singapur,2,88.6,0.8
+ Nueva Zelanda,3,83.7,2.1
+ Suiza,4,81.5,0.5
+ Australia,5,81,0.7
+ Estonia,6,79.1,1.9
+ Canadá,7,78.5,0.5
+Emiratos Árabes Unidos,8,76.9,4.5
+ Irlanda,9,76.7,-0.6
+ Chile,10,76.5,-1.2
+ República de China,11,76.5,1.8
+ Reino Unido,12,76.4,0
+ Georgia,13,76,3.0
+ Luxemburgo,14,75.9,2.7
+ Países Bajos,15,75.8,2.1
+ Lituania,16,75.8,0.6
+ Estados Unidos,17,75.1,-0.3
+ Dinamarca,18,75.1,-0.2
+Suecia,19,74.9,2.2
+ Letonia,20,74.8,5.1
+ Mauricio,21,74.7,0
+ Islandia,22,74.4,2.4
+ Corea del Sur,23,74.3,2.8
+ Finlandia,24,74.0,0.6
+Noruega,25,74,2.2
+ Alemania,26,73.8,0
+ Malasia,27,73.8,3
+ República Checa,28,73.3,0.8
+ Catar,29,73.1,2.3
+ Austria,30,72.3,1.1
+ Macedonia del Norte,31,70.7,3.6
+ Macao,32,70.7,0.4
+ Armenia,33,70.3,3.2
+ Botsuana,34,71.1,-2.2
+ Brunéi,35,69.8,0.9
+ Israel,36,69.7,-0.8
+ Colombia,37,69.7,-2
+Uruguay,38,69.7,1.1
+Rumania,39,69.7,3.1
+ Japón,40,69.6,-3.7
+ Jamaica,41,69.5,1.8
+Kazajistán,42,69,5.7
+Perú,43,68.9,1.2
+ Baréin,44,68.5,-4.9
+ Polonia,45,68.3,-0.3
+ Kosovo,46,67.9,
+ Bulgaria,47,67.9,1.1
+ Chipre,48,67.9,0
+ Bélgica,49,67.8,-1
+ Malta,50,67.7,1.2
+ Ruanda,51,67.6,2.8
+ Vanuatu,52,67.4,6.3
+ Jordania,53,66.7,-2.6
+Panamá,54,66.3,2.2
+ Tailandia,55,66.2,3.8
+ Hungría,56,65.8,-1.0
+Eslovaquia,57,65.7,-1.5
+ Filipinas,58,65.6,3.4
+ San Vicente y las Granadinas,59,65.2,-2.8
+ Turquía,60,65.2,2
+ Kuwait,61,65.1,2.6
+ Santa Lucía,62,65,-5.2
+ Costa Rica,63,65,-2.2
+ Arabia Saudita,64,64.4,2.3
+Albania,65,64.4,-1.3
+ El Salvador,66,64.1,-1.6
+ Dominica,67,63.7,-2.4
+ Azerbaiyán,68,63.6,2.6
+ España,69,63.6,-4.0
+México,70,63.6,-2.8
+ Fiyi,71,63.4,4.4
+ Francia,72,63.3,0.8
+ Tonga,73,63,3.7
+ Guatemala,74,63,2.6
+ República Dominicana,76,62.9,1.9
+ Portugal,77,62.6,-2.7
+ Namibia,78,62.5,2.9
+ Italia,79,62.5,0.8
+Paraguay,80,62.4,1.3
+ Sudáfrica,81,62.3,-0.3
+ Omán,82,62.1,-4.6
+Montenegro,83,62,-2.7
+ Indonesia,84,61.9,3.8
+ Seychelles,85,61.8,4.3
+ Marruecos,86,61.5,1.4
+ Trinidad y Tobago,87,61.2,-2.9
+ Suazilandia,88,61.1,1.2
+Kirguistán,89,61.1,-0.2
+ Bahamas,90,61.1,-7.6
+ Uganda,91,60.9,1.2
+ Bosnia y Herzegovina,92,60.2,1.2
+ Burkina Faso,93,59.6,1
+ Camboya,94,59.5,2
+ Croacia,95,59.4,-2.1
+ Benín,96,59.2,0.4
+ Eslovenia,97,59.2,-1.1
+ Nicaragua,98,59.2,1.6
+ Serbia,99,58.9,-1.1
+ Honduras,100,58.8,1.4
+ Belice,101,58.6,1.8
+ Malí,102,58.6,2.2
+ Gabón,103,58.6,0.3
+ Bielorrusia,104,58.6,8.8
+ Tanzania,105,58.6,1.1
+ Guyana,106,58.5,3
+ Bután,107,58.4,1
+ Samoa,108,58.4,-3.5
+ Tayikistán,109,58.2,5.5
+ Moldavia,110,58,0.5
+ China,111,57.4,4.7
+ Sri Lanka,112,57.4,-1.2
+ Madagascar,113,57.4,-4.3
+Rusia,114,57.1,5
+ Nigeria,115,57.1,1.5
+ Cabo Verde,116,56.9,-9.5
+ República Democrática del Congo,117,56.4,13.7
+ Ghana,118,56.2,-6.8
+ Guinea-Bisáu,119,56.1,4.1
+ Senegal,120,55.9,-1.9
+ Comoras,121,55.8,3.7
+ Zambia,122,55.8,-2.9
+ Túnez,123,55.7,-2.0
+ Santo Tomé y Príncipe,124,55.4,2.1
+ Nepal,125,55.1,3.8
+ Islas Salomón,126,55,8
+ Grecia,127,55,1
+ Bangladés,128,55,1.1
+ Mongolia,129,54.8,-4.4
+ Barbados,130,54.5,-13.4
+ Mauritania,131,54.4,1.1
+ Micronesia,132,54.1,4.5
+ Laos,133,54,2.6
+ Lesoto,134,53.9,4.3
+ Kenia,135,53.5,-2.1
+ Gambia,136,53.4,-4.1
+ Líbano,137,53.3,-6.0
+ Togo,138,53.2,0.2
+ Burundi,139,53.2,-0.5
+ Brasil,140,52.9,-3.7
+ Pakistán,141,52.8,-2.8
+ Etiopía,142,52.7,1.2
+ India,143,52.6,-2
+ Egipto,144,52.6,-2.6
+ Sierra Leona,145,52.6,0.9
+ Vietnam,147,52.4,0.7
+ Uzbekistán,148,52.3,5.3
+ Malaui,149,52.9,-1.9
+ Camerún,150,51.8,-0.1
+ República Centroafricana,151,51.8,5.9
+ Papúa Nueva Guinea,152,50.9,-2.2
+ Kiribati,153,50.9,4.5
+ Níger,154,50.8,-3.8
+ Irán,155,50.5,8.7
+ Argentina,156,50.4,6.3
+ Maldivas,157,50.3,-3.1
+ Mozambique,158,49.9,-4.9
+ Haití,159,49.6,-1.7
+ Ecuador,160,49.3,0.1
+ Liberia,161,49.1,-3.6
+ Chad,162,49,3.1
+ Afganistán,163,48.9,
+ Angola,165,48.5,0.6
+Ucrania,166,48.1,1.2
+ Surinam,167,48,-6.2
+ Bolivia,168,47.7,0.9
+ Guinea,169,47.6,-4.5
+ Turkmenistán,170,47.4,6
+ Yibuti,171,46.7,-10.8
+ Argelia,172,46.5,-2.4
+ Timor Oriental,173,46.3,0.8
+ Guinea Ecuatorial,174,45,4.6
+ Zimbabue,175,44,6.4
+ Eritrea,176,42.2,3.3
+ República del Congo,177,40,-5
+ Cuba,178,33.9,4.3
+Venezuela,179,27,-7.3
+ Corea del Norte,180,4.9,3.6
+ Costa de Marfil,,,
+ Yemen,-,,
+ Birmania,,,
+Control de autoridades,Proyectos Wikimedia Datos:Q1931610 Multimedia:Index of Economic Freedom,,
